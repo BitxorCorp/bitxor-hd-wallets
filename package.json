@@ -27,7 +27,7 @@
     "coveralls": "^3.0.9",
     "mocha": "^8.2.1",
     "nyc": "^14.1.1",
-    "bitxor-sdk": "git+http://gitlab.local.bitxor.org/bitxor-nodejs-sdk/bitxor-sdk.git#0.9.1",
+    "bitxor-sdk": "latest",
     "ts-node": "^7.0.0",
     "tslint": "^6.0.0",
     "typedoc": "^0.15.0",
